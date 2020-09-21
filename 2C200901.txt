@@ -1,0 +1,152 @@
+------------------------------------
+Station ID: ZBT1
+Point ID: CBZ1,Hz=0.0000000
+Point ID: ZBT2,Hz=178.0052673
+Point ID: ZDB2,Hz=178.3251215
+Point ID: CBZ1,V=89.0408199
+Point ID: ZBT2,V=90.3258864
+Point ID: ZDB2,V=90.4924153
+Point ID: CBZ1,Dist=135.4199
+Point ID: ZBT2,Dist=147.9712
+Point ID: ZDB2,Dist=144.4846
+------------------------------------
+Station ID: ZBT2
+Point ID: ZBT1,Hz=0.0000000
+Point ID: ZDB1,Hz=1.1946888
+Point ID: ZBT3,Hz=187.3939160
+Point ID: ZDB3,Hz=188.1319799
+Point ID: ZBT1,V=89.2647426
+Point ID: ZDB1,V=89.4003477
+Point ID: ZBT3,V=90.2642364
+Point ID: ZDB3,V=90.3811498
+Point ID: ZBT1,Dist=147.9720
+Point ID: ZDB1,Dist=152.7170
+Point ID: ZBT3,Dist=115.7725
+Point ID: ZDB3,Dist=113.4381
+------------------------------------
+Station ID: ZBT3
+Point ID: ZDB2,Hz=0.0000000
+Point ID: ZBT2,Hz=0.5156439
+Point ID: ZBT4,Hz=189.2108588
+Point ID: ZDB4,Hz=189.5716180
+Point ID: ZDB2,V=89.5249377
+Point ID: ZBT2,V=89.3259146
+Point ID: ZBT4,V=89.4601167
+Point ID: ZDB4,V=89.5956354
+Point ID: ZDB2,Dist=119.0755
+Point ID: ZBT2,Dist=115.7726
+Point ID: ZBT4,Dist=124.0751
+Point ID: ZDB4,Dist=120.2599
+------------------------------------
+Station ID: ZBT4
+Point ID: ZDB3,Hz=0.0000000
+Point ID: ZBT3,Hz=0.3915984
+Point ID: ZBT5,Hz=189.2033590
+Point ID: ZDB5,Hz=189.5620340
+Point ID: ZDB3,V=90.2452535
+Point ID: ZBT3,V=90.1342644
+Point ID: ZBT5,V=89.4608278
+Point ID: ZDB5,V=90.0006147
+Point ID: ZDB3,Dist=126.2416
+Point ID: ZBT3,Dist=124.0747
+Point ID: ZBT5,Dist=122.8735
+Point ID: ZDB5,Dist=116.9576
+------------------------------------
+Station ID: ZBT5
+Point ID: ZDB4,Hz=0.0000000
+Point ID: ZBT4,Hz=0.4939431
+Point ID: ZBT6,Hz=185.4029493
+Point ID: ZDB6,Hz=186.2107561
+Point ID: ZDB4,V=90.3029158
+Point ID: ZBT4,V=90.1336575
+Point ID: ZBT6,V=90.0006829
+Point ID: ZDB6,V=90.0903593
+Point ID: ZDB4,Dist=126.4761
+Point ID: ZBT4,Dist=122.8726
+Point ID: ZBT6,Dist=139.4569
+Point ID: ZDB6,Dist=136.2850
+------------------------------------
+Station ID: ZBT6
+Point ID: ZDB5,Hz=0.0000000
+Point ID: ZBT5,Hz=0.4033659
+Point ID: ZDB7,Hz=181.2926263
+Point ID: ZBT7,Hz=182.5114104
+Point ID: ZDB5,V=90.1437002
+Point ID: ZBT5,V=89.5943055
+Point ID: ZDB7,V=90.2706805
+Point ID: ZBT7,V=90.0844865
+Point ID: ZDB5,Dist=145.2642
+Point ID: ZBT5,Dist=139.4557
+Point ID: ZDB7,Dist=140.8656
+Point ID: ZBT7,Dist=145.6711
+------------------------------------
+Station ID: ZBT7
+Point ID: ZDB6,Hz=0.0000000
+Point ID: ZBT6,Hz=0.3958792
+Point ID: ZBT8,Hz=176.4036505
+Point ID: ZDB8,Hz=177.1619863
+Point ID: ZDB6,V=90.0047191
+Point ID: ZBT6,V=89.5059878
+Point ID: ZBT8,V=90.3529283
+Point ID: ZDB8,V=90.4526657
+Point ID: ZDB6,Dist=148.7988
+Point ID: ZBT6,Dist=145.6702
+Point ID: ZBT8,Dist=139.4885
+Point ID: ZDB8,Dist=142.9498
+------------------------------------
+Station ID: ZBT8
+Point ID: ZBT7,Hz=0.0000000
+Point ID: ZDB7,Hz=1.2747334
+Point ID: ZDB9,Hz=183.2030245
+Point ID: ZBT9,Hz=183.5451768
+Point ID: ZBT7,V=89.2413396
+Point ID: ZDB7,V=89.4229985
+Point ID: ZDB9,V=90.5055699
+Point ID: ZBT9,V=90.3146148
+Point ID: ZBT7,Dist=139.4889
+Point ID: ZDB7,Dist=144.1350
+Point ID: ZDB9,Dist=141.7285
+Point ID: ZBT9,Dist=145.4175
+------------------------------------
+Station ID: ZBT9
+Point ID: ZDB8,Hz=0.0000000
+Point ID: ZBT8,Hz=0.3011195
+Point ID:ZBT10,Hz=176.3000783
+Point ID:ZDB10,Hz=177.0937258
+Point ID: ZDB8,V=89.3929746
+Point ID: ZBT8,V=89.2805509
+Point ID:ZBT10,V=90.4940871
+Point ID:ZDB10,V=91.0354184
+Point ID: ZDB8,Dist=141.8763
+Point ID: ZBT8,Dist=145.4165
+Point ID:ZBT10,Dist=133.4917
+Point ID:ZDB10,Dist=131.1164
+------------------------------------
+Station ID:ZBT10
+Point ID: ZBT9,Hz=0.0000000
+Point ID: ZDB9,Hz=0.4154601
+Point ID:ZDB11,Hz=182.3644198
+Point ID:ZBT11,Hz=182.3331310
+Point ID: ZBT9,V=89.1009606
+Point ID: ZDB9,V=89.3300588
+Point ID:ZDB11,V=90.5356365
+Point ID:ZBT11,V=90.3050670
+Point ID: ZBT9,Dist=133.4914
+Point ID: ZDB9,Dist=137.0890
+Point ID:ZDB11,Dist=122.8241
+Point ID:ZBT11,Dist=143.1286
+------------------------------------
+Station ID:ZBT11
+Point ID:ZDB10,Hz=0.0000000
+Point ID:ZBT10,Hz=0.3808822
+Point ID:ZDB12,Hz=169.5311831
+Point ID:ZBT12,Hz=170.1743396
+Point ID:ZDB10,V=89.4318553
+Point ID:ZBT10,V=89.2859614
+Point ID:ZDB12,V=89.5234715
+Point ID:ZBT12,V=89.3319060
+Point ID:ZDB10,Dist=145.4567
+Point ID:ZBT10,Dist=143.1291
+Point ID:ZDB12,Dist=137.3007
+Point ID:ZBT12,Dist=143.3143
+------------------------------------
