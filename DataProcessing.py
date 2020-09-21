@@ -50,7 +50,7 @@ def zhuanhua(data3,dist):
         return (resu2)
     except Exception as e:
         print ("zhuanhua函数报错：",e)
-        input("程序运行失败，按任意键退出")
+        input("程序运行失败，按任意键退出哈哈哈")
 
 def TestMain(path):
     file = open(path, 'r')
